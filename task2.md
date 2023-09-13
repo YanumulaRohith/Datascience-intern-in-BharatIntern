@@ -1,6 +1,5 @@
-# Task 2
-## Problem statement :
-## Titanic Classification : Algorithm which tells whether the person will be save from sinking or not
+# Task 2 [Titanic Classification] 
+## Make a system which tells whether the person will be save from sinking. What factors were most likely lead to success-socio-economic status, age, gender and more.
 ### About Dataset :
 ### Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 
