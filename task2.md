@@ -9,4 +9,4 @@
 
 ### PassengerId: Passenger Identity Survived: Whether passenger survived or not (0 = No, 1 = Yes) Pclass: Class of ticket, a proxy for socio-economic status (SES) (1 = 1st, 2 = 2nd, 3 = 3rd) Name: Name of passenger Sex: Sex of passenger Age: Age of passenger in years SibSp: Number of sibling and/or spouse travelling with passenger Parch: Number of parent and/or children travelling with passenger Ticket: Ticket number Fare: Price of ticket Cabin: Cabin number Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
-### Dataset : https://www.kaggle.com/datasets/rahulsah06/titanic
+### Dataset : https://www.kaggle.com/datasets/yasserh/titanic-dataset
