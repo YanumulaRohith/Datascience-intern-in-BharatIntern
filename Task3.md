@@ -1,4 +1,4 @@
-**About MNIST dataset **
+**About MNIST dataset**
 
 MNIST is a collection of handwritten digits ranging from the number 0 to 9.
 
